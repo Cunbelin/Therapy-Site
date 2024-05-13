@@ -1,0 +1,13 @@
+<footer class="footer">
+    <!-- Option for user to inject custom html -->
+    {{ if .Site.Params.CustomFooterHTML }}
+    {{ .Site.Params.CustomFooterHTML | safeHTML }}
+    {{ end }}
+
+    {{ if .Site.Params.footer }}
+    <span>&copy; {{ now.Year }} {{ .Site.Params.Footer}}</span>
+    {{ end }}
+    <span>
+        &#x1F3F3;&#xFE0F;&#x200D;&#x1F308 &#x1F33B BA(Oxon), DClinPsy, PhD &#x1F994; &#x1F3F3;&#xFE0F;&#x200D;&#x26A7;&#xFE0F<!--hedgehog, book, nature, flower, sunflower-->
+    </span>
+</footer>
