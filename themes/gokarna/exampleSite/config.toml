@@ -1,5 +1,5 @@
-baseURL = "https://gokarna-hugo.netlify.app"
-title = "Gokarna"
+baseURL = "https://www.marcwilliamspsychology.com"
+title = "Dr Marc Williams, Clinical Psychologist"
 theme = "gokarna"
 languageCode = "en"
 defaultContentLanguage = "en"
