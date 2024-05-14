@@ -26,7 +26,8 @@ Field, S. L., Fox, J. R. E., Jones, C. R. G. and Williams, M. O. 2023. “Work W
 Williams, M. 2023. A mixed-methods examination of nature beliefs as predictors of sustainable behaviour in the UK/Archwiliad dulliau cymysg o gredoau natur sy’n darogan ymddygiad cynaliadwy yn y DU. PhD Thesis, Cardiff University.
 
 Field, S. L., Williams, M. O., Jones, C. R. and Fox, J. R. 2023. A Meta-ethnography of autistic people’s experiences of social camouflaging and its relationship with mental health. Autism (10.1177/13623613231223036)
-2022
+
+### 2022
 
 Morrison, J., Williams, M. O. and Fox, J. R. E. 2022. Negative childhood events and the development of the anorexic voice: A grounded theory. Psychology and Psychotherapy: Theory, Research and Practice 95(4), pp. 1018-1035. (10.1111/papt.12416)
 
@@ -42,12 +43,15 @@ Williams, M. O., Whitmarsh, L., Haddock, G. and Mac Giolla Chríost, D. 2021. A 
 Williams, M., Whitmarsh, L. and Chríost, D. M. G. 2021. The association between anthropomorphism of nature and pro-environmental variables: a systematic review. Biological Conservation 255, article number: 109022. (10.1016/j.biocon.2021.109022)
 
 Thomas, K. S., Williams, M. O. and Vanderwert, R. E. 2021. Disordered eating and internalizing symptoms in preadolescence. Brain and Behavior 11(1), article number: e01904. (10.1002/brb3.1904)
-2020
+
+### 2020
 
 Williams, M. 2020. The relationship between climate change and mental health information-seeking: a preliminary investigation. Journal of Public Mental Health 20, pp. 69-78. (10.1108/JPMH-04-2020-0025)
-2017
+
+### 2017
 
 Williams, M. O., Tsivos, Z., Brown, S., Whitelock, N. S. and Sampson, M. 2017. Compassion-focused therapy for bulimia nervosa and bulimic presentations: a preliminary case series. Behaviour Change 34(3), pp. 199-207. (10.1017/bec.2017.13)
-2014
+
+### 2014
 
 Williams, M., Mathews, A. and Hirsch, C. R. 2014. Verbal worry facilitates attention to threat in high-worriers. Journal of Behavior Therapy and Experimental Psychiatry 45(1), pp. 8-14. (10.1016/j.jbtep.2013.05.006)

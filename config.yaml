@@ -24,7 +24,7 @@ params:
     '$', right: '$', display: false},\r\n          ],\r\n          // • rendering
     keys, e.g.:\r\n          throwOnError : false\r\n        });\r\n      });\r\n
     \   </script>\r\n  "
-  description: Hello - my name is Marc. I specialise in cognitive behaviour therapy (CBT) and compassion-focused therapy (CFT), and provide therapeutic support to people with a variety of difficulties, such as low mood, anxiety, and eating disorders. I also provide support to people experiencing climate- / eco-distress. I work with a diversity of clients from a range of backgrounds, and can provide therapy in English or in Welsh. You can contact me at m.owenwilliams@gmail.com.
+  description: Hello - my name is Marc. I provide therapy and supervision, specialising in cognitive behaviour therapy (CBT) and compassion-focused therapy (CFT). I provide therapeutic support for a variety of difficulties, such as anxiety, low mood, and eating disorders. I also provide support to people experiencing climate- / eco-distress. I work with a diversity of clients from a range of backgrounds, and can provide therapy in English or in Welsh. If you would like to discuss potentially working together, you can contact me at m.owenwilliams@gmail.com.
   #footer: The Marauders
   metaKeywords:
     - blog
