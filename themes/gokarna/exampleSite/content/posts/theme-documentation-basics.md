@@ -171,7 +171,7 @@ This is the image url for the avatar on the homepage and the header.
 
 ```toml
 [params]
-  avatarURL = "/images/avatar.jpg"
+  avatarURL = "/images/profile.png"
 ```
 
 ### Avatar Size
