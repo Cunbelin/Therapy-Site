@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://localhost:4321/privacy-policy/bludhaven/</loc>
-  </url><url>
-    <loc>http://localhost:4321/categories/</loc>
-  </url><url>
-    <loc>http://localhost:4321/</loc>
-  </url><url>
-    <loc>http://localhost:4321/privacy-policy/hydra/</loc>
-  </url><url>
-    <loc>http://localhost:4321/privacy-policy/</loc>
-  </url><url>
-    <loc>http://localhost:4321/publications/</loc>
-  </url><url>
-    <loc>http://localhost:4321/tags/</loc>
-  </url><url>
-    <loc>http://localhost:4321/privacy-policy/tatooine/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>http://localhost:4321/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:4321/cy/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

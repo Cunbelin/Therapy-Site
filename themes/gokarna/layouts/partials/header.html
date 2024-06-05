@@ -37,6 +37,12 @@
                 </a>
             </div>
 
+<div class="language-switcher">
+    <li><a href="{{ .Site.BaseURL }}en/">English</a></li>
+    <li><a href="{{ .Site.BaseURL }}cy/">Cymraeg</a></li>
+  </div>
+</nav>
+
             <!-- For mobile -->
             <ul class="nav-hamburger-list visibility-hidden">
                 {{ range .Site.Menus.main }}
@@ -52,6 +58,10 @@
                         <span class="theme-toggle-icon" data-feather="moon"></span>
                     </a>
                 </li>
+                <li class="nav-item language-switcher">
+                <a href="{{ .Site.BaseURL }}en/">English</a>
+                <a href="{{ .Site.BaseURL }}cy/">Cymraeg</a>
+            </li>
             </ul>
 
         </div>
