@@ -1,19 +1,19 @@
 baseURL: https://www.marcwilliamspsychology.com
 title: Dr Marc Williams, Clinical Psychologist
 theme: gokarna
-languageCode: en
-defaultContentLanguage: en
-defaultContentLanguageInSubdir: true
+#languageCode: en
+#defaultContentLanguage: en
+#defaultContentLanguageInSubdir: true
 
-languages:
-  en:
-    weight: 1
-    languageName: "English"
-    contentDir: "content/en"
-  cy:
-    weight: 2
-    languageName: "Cymraeg"
-    contentDir: "content/cy"
+##languages:
+#  en:
+#    weight: 1
+#    languageName: "English"
+#    contentDir: "content/en"
+#  cy:
+#    weight: 2
+#    languageName: "Cymraeg"
+#    contentDir: "content/cy"
     
 enableEmoji: yes
 enableRobotsTXT: yes

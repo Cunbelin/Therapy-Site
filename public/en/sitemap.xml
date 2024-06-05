@@ -2,100 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/en/privacy-policy/bludhaven/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cy"
-                href="http://localhost:4321/cy/privacy-policy/bludhaven/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:4321/en/privacy-policy/bludhaven/"
-                />
+    <loc>http://localhost:4321/en/cy/privacy-policy/bludhaven/</loc>
+  </url><url>
+    <loc>http://localhost:4321/en/en/privacy-policy/bludhaven/</loc>
   </url><url>
     <loc>http://localhost:4321/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cy"
-                href="http://localhost:4321/cy/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:4321/en/categories/"
-                />
+  </url><url>
+    <loc>http://localhost:4321/en/cy/</loc>
   </url><url>
     <loc>http://localhost:4321/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cy"
-                href="http://localhost:4321/cy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:4321/en/"
-                />
   </url><url>
-    <loc>http://localhost:4321/en/privacy-policy/hydra/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cy"
-                href="http://localhost:4321/cy/privacy-policy/hydra/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:4321/en/privacy-policy/hydra/"
-                />
+    <loc>http://localhost:4321/en/en/</loc>
   </url><url>
-    <loc>http://localhost:4321/en/privacy-policy/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cy"
-                href="http://localhost:4321/cy/privacy-policy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:4321/en/privacy-policy/"
-                />
+    <loc>http://localhost:4321/en/cy/privacy-policy/hydra/</loc>
   </url><url>
-    <loc>http://localhost:4321/en/publications/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cy"
-                href="http://localhost:4321/cy/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:4321/en/publications/"
-                />
+    <loc>http://localhost:4321/en/en/privacy-policy/hydra/</loc>
+  </url><url>
+    <loc>http://localhost:4321/en/cy/privacy-policy/</loc>
+  </url><url>
+    <loc>http://localhost:4321/en/en/privacy-policy/</loc>
+  </url><url>
+    <loc>http://localhost:4321/en/cy/publications/</loc>
+  </url><url>
+    <loc>http://localhost:4321/en/en/publications/</loc>
   </url><url>
     <loc>http://localhost:4321/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cy"
-                href="http://localhost:4321/cy/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:4321/en/tags/"
-                />
   </url><url>
-    <loc>http://localhost:4321/en/privacy-policy/tatooine/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cy"
-                href="http://localhost:4321/cy/privacy-policy/tatooine/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:4321/en/privacy-policy/tatooine/"
-                />
+    <loc>http://localhost:4321/en/cy/privacy-policy/tatooine/</loc>
+  </url><url>
+    <loc>http://localhost:4321/en/en/privacy-policy/tatooine/</loc>
   </url>
 </urlset>
